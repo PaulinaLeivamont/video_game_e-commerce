@@ -1,8 +1,8 @@
 #Data
 
-— Name (Nombre)
-— Platform (Plataforma)
-— Year_of_Release (Año de lanzamiento)
+* Name (Nombre)
+* Platform (Plataforma)
+* Year_of_Release (Año de lanzamiento)
 — Genre (Género)
 — NA_sales (ventas en Norteamérica en millones de dólares estadounidenses)
 — EU_sales (ventas en Europa en millones de dólares estadounidenses)
